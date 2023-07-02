@@ -1,0 +1,43 @@
+.card-pc{
+    background-color: #3A4750;
+    height: auto;
+    width: 220px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6%;
+}
+img{
+    height: 200px;
+    width: 200px
+}
+p{
+    color: #EEEEEE;
+}
+.button{
+width: 200px;
+background-color: #D72323;
+color: #EEEEEE;
+border-radius: 4px;
+
+}
+.card-pcs{
+    background-color: #3a4750;
+    height: auto;
+    width: 220px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6%;
+    border: solid 2px #b9e769;
+}
+.button-disc{
+    background-color: #b9e769;
+    color: #fff;
+    border: 1px solid #b9e769;
+    box-shadow: 10px 10px 100px 6px #b9e769;
+    width: 200px;
+    border-radius: 4px;
+}
+.scidka{
+    color: #b9e769;
+    font-size: 20px;
+}
